@@ -20,7 +20,9 @@ The goal of the project was to help the Horiseon Social Solution Services organi
 - You can navigate this page to get a better understanding of the various services that Horisoen Social Solutions Services offer.
 
 - Below is a link to the webpage after the accessibility changes have been made.
-    - [Scrolling Screenshot of the entire webpage.](./assets/images/screencapture-garrettwinter-github-io-challengeAssignment-Week1-2022-10-26-14_57_34.png)
+    - This site can be access by going to:
+        - https://garrettwinter.github.io/challengeAssignment-Week1/
+    - [A Screenshot of the entire webpage can be seen here.](./assets/images/screencapture-garrettwinter-github-io-challengeAssignment-Week1-2022-10-26-14_57_34.png)
 
 ## Credits
 
@@ -31,7 +33,7 @@ While working on this project I had collaborated in rea0ltime with:
 
 MIT License
 
-Copyright (c) 2022 Garrett Winter
+Copyright (c) 2022 Garrett Winter 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
