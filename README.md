@@ -27,7 +27,7 @@ The goal of the project was to help the Horiseon Social Solution Services organi
 ## Credits
 
 While working on this project I had collaborated in rea0ltime with:
-  - Garrett Winter (https://github.com/garrettWinter))
+  - Garrett Winter (https://github.com/garrettWinter)
   - Salahuddin Imdad (https://github.com/Sal8298).
 
 ## License
