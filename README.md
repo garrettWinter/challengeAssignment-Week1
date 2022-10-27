@@ -22,7 +22,7 @@ The goal of the project was to help the Horiseon Social Solution Services organi
 - Below is a link to the webpage after the accessibility changes have been made.
     - This site can be access by going to:
         - https://garrettwinter.github.io/challengeAssignment-Week1/
-    - [A Screenshot of the entire webpage can be seen here.](./assets/images/screencapture-garrettwinter-github-io-challengeAssignment-Week1-2022-10-26-14_57_34.png)
+    - ![A Screenshot of the entire webpage can be seen here.](./assets/images/screencapture-garrettwinter-github-io-challengeAssignment-Week1-2022-10-26-14_57_34.png)
 
 ## Credits
 
