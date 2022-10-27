@@ -1,20 +1,22 @@
 /*Universal Tag*/
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; /*This setting makes it so padding and border in an element's total width and heigh, applying this in the universal selector makes the page more consistent*/
     padding: 0;
     margin: 0;
 }
+
 /*Element Tags*/
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none; /*This is removing the underline from the links*/
 }
+
 body {
     background-color: #d9dcd6;
 }
 
 h1 {
-    display: inline-block;
+    display: inline-block; /*This keeps the content inline, but allow for the content below the child container to be moved down*/
     font-size: 48px;
 }
 
@@ -34,8 +36,8 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
-    float: right;
+    clear: both; 
+    float: right; /*This sets which direction the content should be moved to within the container*/
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -53,7 +55,7 @@ p {
 
 .benefit-content img {
     display: block;
-    margin: 10px auto;
+    margin: 10px auto; /*The auto setting will calculate the amount of margin needed to make this be centered*/
     max-width: 150px;
 }
 
@@ -95,7 +97,7 @@ p {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    list-style-type: none;
+    list-style-type: none; /*This will remove the bulletes from the list*/
 }
 
 .heroBanner {
@@ -128,3 +130,5 @@ p {
 .seo {
     color: #d9dcd6;
 }
+
+
